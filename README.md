@@ -1,2 +1,2 @@
 # TDI_notebooks
-This repo contains the notebooks as part of the project proposal of The Data Incubator.
+It is an attempt at sarcasm classification using the new [Princeton sarcasm dataset](http://nlp.cs.princeton.edu/SARC/2.0/)
